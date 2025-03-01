@@ -33,13 +33,13 @@ theme.border_marked = "#91231c"
 --theme.taglist_bg_focus = "#ff0000"
 
 -- Display the taglist squares
-theme.taglist_squares_sel   = "~/.config/awesome/themes/germanium/taglist/squarefw.png"
-theme.taglist_squares_unsel = "~/.config/awesome/themes/germanium/taglist/squarew.png"
+theme.taglist_squares_sel   = "./taglist/squarefw.png"
+theme.taglist_squares_unsel = "./taglist/squarew.png"
 
 -- Variables set for theming the menu:
 -- menu_[bg|fg]_[normal|focus]
 -- menu_[border_color|border_width]
-theme.menu_submenu_icon = "~/.config/awesome/themes/germanium/submenu.png"
+theme.menu_submenu_icon = "./submenu.png"
 theme.menu_height = 15
 theme.menu_width  = 100
 
@@ -49,46 +49,46 @@ theme.menu_width  = 100
 --theme.bg_widget = "#cc0000"
 
 -- Define the image to load
-theme.titlebar_close_button_normal = "~/.config/awesome/themes/germanium/titlebar/close_normal.png"
-theme.titlebar_close_button_focus  = "~/.config/awesome/themes/germanium/titlebar/close_focus.png"
+theme.titlebar_close_button_normal = "./titlebar/close_normal.png"
+theme.titlebar_close_button_focus  = "./titlebar/close_focus.png"
 
-theme.titlebar_ontop_button_normal_inactive = "~/.config/awesome/themes/germanium/titlebar/ontop_normal_inactive.png"
-theme.titlebar_ontop_button_focus_inactive  = "~/.config/awesome/themes/germanium/titlebar/ontop_focus_inactive.png"
-theme.titlebar_ontop_button_normal_active = "~/.config/awesome/themes/germanium/titlebar/ontop_normal_active.png"
-theme.titlebar_ontop_button_focus_active  = "~/.config/awesome/themes/germanium/titlebar/ontop_focus_active.png"
+theme.titlebar_ontop_button_normal_inactive = "./titlebar/ontop_normal_inactive.png"
+theme.titlebar_ontop_button_focus_inactive  = "./titlebar/ontop_focus_inactive.png"
+theme.titlebar_ontop_button_normal_active = "./titlebar/ontop_normal_active.png"
+theme.titlebar_ontop_button_focus_active  = "./titlebar/ontop_focus_active.png"
 
-theme.titlebar_sticky_button_normal_inactive = "~/.config/awesome/themes/germanium/titlebar/sticky_normal_inactive.png"
-theme.titlebar_sticky_button_focus_inactive  = "~/.config/awesome/themes/germanium/titlebar/sticky_focus_inactive.png"
-theme.titlebar_sticky_button_normal_active = "~/.config/awesome/themes/germanium/titlebar/sticky_normal_active.png"
-theme.titlebar_sticky_button_focus_active  = "~/.config/awesome/themes/germanium/titlebar/sticky_focus_active.png"
+theme.titlebar_sticky_button_normal_inactive = "./titlebar/sticky_normal_inactive.png"
+theme.titlebar_sticky_button_focus_inactive  = "./titlebar/sticky_focus_inactive.png"
+theme.titlebar_sticky_button_normal_active = "./titlebar/sticky_normal_active.png"
+theme.titlebar_sticky_button_focus_active  = "./titlebar/sticky_focus_active.png"
 
-theme.titlebar_floating_button_normal_inactive = "~/.config/awesome/themes/germanium/titlebar/floating_normal_inactive.png"
-theme.titlebar_floating_button_focus_inactive  = "~/.config/awesome/themes/germanium/titlebar/floating_focus_inactive.png"
-theme.titlebar_floating_button_normal_active = "~/.config/awesome/themes/germanium/titlebar/floating_normal_active.png"
-theme.titlebar_floating_button_focus_active  = "~/.config/awesome/themes/germanium/titlebar/floating_focus_active.png"
+theme.titlebar_floating_button_normal_inactive = "./titlebar/floating_normal_inactive.png"
+theme.titlebar_floating_button_focus_inactive  = "./titlebar/floating_focus_inactive.png"
+theme.titlebar_floating_button_normal_active = "./titlebar/floating_normal_active.png"
+theme.titlebar_floating_button_focus_active  = "./titlebar/floating_focus_active.png"
 
-theme.titlebar_maximized_button_normal_inactive = "~/.config/awesome/themes/germanium/titlebar/maximized_normal_inactive.png"
-theme.titlebar_maximized_button_focus_inactive  = "~/.config/awesome/themes/germanium/titlebar/maximized_focus_inactive.png"
-theme.titlebar_maximized_button_normal_active = "~/.config/awesome/themes/germanium/titlebar/maximized_normal_active.png"
-theme.titlebar_maximized_button_focus_active  = "~/.config/awesome/themes/germanium/titlebar/maximized_focus_active.png"
+theme.titlebar_maximized_button_normal_inactive = "./titlebar/maximized_normal_inactive.png"
+theme.titlebar_maximized_button_focus_inactive  = "./titlebar/maximized_focus_inactive.png"
+theme.titlebar_maximized_button_normal_active = "./titlebar/maximized_normal_active.png"
+theme.titlebar_maximized_button_focus_active  = "./titlebar/maximized_focus_active.png"
 
-theme.wallpaper = "~/.config/awesome/themes/germanium/background.png"
+theme.wallpaper = "./background.png"
 
 -- You can use your own layout icons like this:
-theme.layout_fairh = "~/.config/awesome/themes/germanium/layouts/fairhw.png"
-theme.layout_fairv = "~/.config/awesome/themes/germanium/layouts/fairvw.png"
-theme.layout_floating  = "~/.config/awesome/themes/germanium/layouts/floatingw.png"
-theme.layout_magnifier = "~/.config/awesome/themes/germanium/layouts/magnifierw.png"
-theme.layout_max = "~/.config/awesome/themes/germanium/layouts/maxw.png"
-theme.layout_fullscreen = "~/.config/awesome/themes/germanium/layouts/fullscreenw.png"
-theme.layout_tilebottom = "~/.config/awesome/themes/germanium/layouts/tilebottomw.png"
-theme.layout_tileleft   = "~/.config/awesome/themes/germanium/layouts/tileleftw.png"
-theme.layout_tile = "~/.config/awesome/themes/germanium/layouts/tilew.png"
-theme.layout_tiletop = "~/.config/awesome/themes/germanium/layouts/tiletopw.png"
-theme.layout_spiral  = "~/.config/awesome/themes/germanium/layouts/spiralw.png"
+theme.layout_fairh = "./layouts/fairhw.png"
+theme.layout_fairv = "./layouts/fairvw.png"
+theme.layout_floating  = "./layouts/floatingw.png"
+theme.layout_magnifier = "./layouts/magnifierw.png"
+theme.layout_max = "./layouts/maxw.png"
+theme.layout_fullscreen = "./layouts/fullscreenw.png"
+theme.layout_tilebottom = "./layouts/tilebottomw.png"
+theme.layout_tileleft   = "./layouts/tileleftw.png"
+theme.layout_tile = "./layouts/tilew.png"
+theme.layout_tiletop = "./layouts/tiletopw.png"
+theme.layout_spiral  = "./layouts/spiralw.png"
 theme.layout_dwindle = "/usr/share/awesome/themeslayouts/dwindlew.png"
 
-theme.awesome_icon = "~/.config/awesome/themes/germanium/icon.png"
+theme.awesome_icon = "./icon.png"
 
 -- Define the icon theme for application icons. If not set then the icons
 -- from /usr/share/icons and /usr/share/icons/hicolor will be used.
