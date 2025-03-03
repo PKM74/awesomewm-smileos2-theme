@@ -6,11 +6,11 @@ theme = {}
 
 theme.font          = "Terminus (TTF) 10"
 
-theme.bg_systray     = "#ad1f1f"
-theme.bg_focus      = "#000000"
-theme.bg_urgent     = "#000000"
+theme.bg_systray    = "#000000"
+theme.bg_focus      = "#ad1f1f"
+theme.bg_urgent     = "#ad1f1f"
 theme.bg_minimize   = "#444444"
-theme.bg_normal    = "#0f0f0f"
+theme.bg_normal     = "#0f0f0f"
 
 theme.fg_normal     = "#aaaaaa"
 theme.fg_focus      = "#8f1717"
