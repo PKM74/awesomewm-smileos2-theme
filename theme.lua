@@ -6,18 +6,18 @@ theme = {}
 
 theme.font          = "Terminus (TTF) 10"
 
-theme.bg_normal     = "#ad1f1f"
+theme.bg_systray     = "#ad1f1f"
 theme.bg_focus      = "#000000"
 theme.bg_urgent     = "#000000"
 theme.bg_minimize   = "#444444"
-theme.bg_systray    = "#0f0f0f"
+theme.bg_normal    = "#0f0f0f"
 
 theme.fg_normal     = "#aaaaaa"
 theme.fg_focus      = "#8f1717"
 theme.fg_urgent     = "#8f1717"
 theme.fg_minimize   = "#000000"
 
-theme.border_width  = 1
+theme.border_width  = 4
 theme.border_normal = "#8f1717"
 theme.border_focus  = "#770000"
 theme.border_marked = "#913f1c"
