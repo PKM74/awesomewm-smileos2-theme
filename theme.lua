@@ -4,7 +4,7 @@
 
 theme = {}
 
-theme.font          = "Terminus (TTF) 10"
+theme.font          = "Terminus (TTF) 11"
 
 theme.bg_systray    = "#000000"
 theme.bg_focus      = "#ad1f1f"
@@ -41,7 +41,7 @@ theme.taglist_squares_unsel = "~/.config/awesome/themes/awesomewm-smileos2-theme
 -- menu_[border_color|border_width]
 theme.menu_submenu_icon = "~/.config/awesome/themes/awesomewm-smileos2-theme/submenu.png"
 theme.menu_height = 15
-theme.menu_width  = 100
+theme.menu_width  = 150
 
 -- You can add as many variables as
 -- you wish and access them by using
