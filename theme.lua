@@ -1,6 +1,6 @@
----------------------------
+-- ======================= --
 -- smileos 2 awesome theme --
----------------------------
+-- ======================= --
 
 theme = {}
 
@@ -30,7 +30,7 @@ theme.border_marked = "#913f1c"
 -- tooltip_[font|opacity|fg_color|bg_color|border_width|border_color]
 -- mouse_finder_[color|timeout|animate_timeout|radius|factor]
 -- Example:
---theme.taglist_bg_focus = "#ff0000"
+-- theme.taglist_bg_focus = "#ff0000"
 
 -- Display the taglist squares
 theme.taglist_squares_sel   = "~/.config/awesome/themes/awesomewm-smileos2-theme/taglist/squarefw.png"
@@ -46,7 +46,7 @@ theme.menu_width  = 150
 -- You can add as many variables as
 -- you wish and access them by using
 -- beautiful.variable in your rc.lua
---theme.bg_widget = "#cc0000"
+-- theme.bg_widget = "#cc0000"
 
 -- Define the image to load
 theme.titlebar_close_button_normal = "~/.config/awesome/themes/awesomewm-smileos2-theme/titlebar/close_normal.png"
